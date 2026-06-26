@@ -1,7 +1,5 @@
-# Markdown Headings (README Notes)
-
+# Markdown Headings
 ## What are headings?
-
 Headings are used to organize and structure a document. They create a hierarchy of sections, making the content easier to read and navigate.
 
 ## Heading Syntax
