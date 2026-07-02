@@ -1,8 +1,5 @@
 ## T4 — Git Properly
 
-**Source:** [Pro Git book](https://git-scm.com/book/en/v2) + [YouTube](https://www.youtube.com/watch?v=RGOj5yH7evk)
-
----
 
 **Problem 1 — Init and first commit**
 Init a repo, create README.md, make first commit. Show git log.
